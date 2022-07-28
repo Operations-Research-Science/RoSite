@@ -1,6 +1,6 @@
 publishDir = "./docs"
 
-baseURL = "https://allenz-me.github.io/RoSite"
+baseURL = "https://Operations-Research-Science.github.io/RoSite"
 title = "鲁棒优化电子书 —— 运筹OR帷幄"
 enableRobotsTXT = true
 enableEmoji = true
